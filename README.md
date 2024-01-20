@@ -1,6 +1,6 @@
 # todo-list
 
-This template should help get you started developing with Vue 3 in Vite.
+my first autonomously written vue component - simple todo list
 
 ## Recommended IDE Setup
 
